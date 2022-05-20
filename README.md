@@ -1,4 +1,4 @@
-# Demo 
+
 
 
 
@@ -10,7 +10,7 @@ The 2nd project what I did with React Native.
 - Typescript
 - React-native-navigation v5
 - Redux / Redux-thunk
-## Installation
+
 
 
 
